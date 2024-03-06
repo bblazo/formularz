@@ -1,4 +1,3 @@
-# PIU24L_ZOCHOWSKA_325343
+Zadanie zakładało stworzenie krótkiego formularza rejestracyjnego. Miało ono na celu oswojenie się z pracą z biblioteką java.swing
 
-
-Repozytorium do przechowywania plików w ramach przedmiotu PIU24L Telekomunikacja semestr 4
+Projekt współtworzony z Wioletą Żochowską oraz Michałem Jęczmieniowskim
